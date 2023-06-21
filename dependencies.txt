@@ -1,0 +1,5 @@
+1. pandas: Install using pip install pandas.
+           It is used for data manipulation and analysis.
+
+2. xlsxwriter: Install using pip install xlsxwriter. 
+               It is a Python module used for creating Excel files.
